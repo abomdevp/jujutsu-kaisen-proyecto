@@ -34,5 +34,5 @@ La base actual no está completa, pero es el punto de partida para algo mucho m�
 Creado por [abomdevp](https://github.com/abomdevp).
 Si quieres aportar ideas, correcciones al lore o sugerencias, ¡no dudes en escribirme!
 
----
+--
 *Este proyecto no tiene fines de lucro y está hecho por y para fans. Jujutsu Kaisen es propiedad de Gege Akutami y Shueisha.*
