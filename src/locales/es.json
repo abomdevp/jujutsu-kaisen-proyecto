@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "characters": "Personajes",
+    "techniques": "Técnicas Malditas",
+    "domains": "Expansiones de Dominio",
+    "clans": "Clanes",
+    "arcs": "Arcos Argumentales",
+    "search": "Buscar",
+    "favorites": "Favoritos",
+    "settings": "Configuración",
+    "updates": "Actualizaciones",
+    "soundtrack": "Opening & Ending"
+  },
+  "common": {
+    "back": "Volver",
+    "profile": "Ver Perfil",
+    "user": "Usuario",
+    "expediente": "Expediente de Hechicería",
+    "estudiante": "Estudiante de Hechicería",
+    "loading": "Cargando archivo...",
+    "no_results": "No se encontraron resultados"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "spanish": "Español",
+    "english": "Inglés",
+    "theme": "Tema",
+    "privacy": "Privacidad"
+  },
+  "characters": {
+    "title": "Archivo de Personajes",
+    "filter_grade": "Filtrar por Grado",
+    "search_placeholder": "Buscar en el archivo...",
+    "grades": {
+      "Special Grade": "Grado Especial",
+      "Special 1st Grade": "Grado 1 Especial",
+      "Grade 1": "Grado 1",
+      "Semi-Grade 1": "Semi-Grado 1",
+      "Grade 2": "Grado 2",
+      "Grade 3": "Grado 3",
+      "Grade 4": "Grado 4",
+      "Unranked": "Sin Rango"
+    }
+  },
+  "status": {
+    "Alive": "Vivo",
+    "Deceased": "Fallecido",
+    "Cursed": "Maldito",
+    "Unknown": "Desconocido"
+  },
+  "techniqueTypes": {
+    "Innate": "Habilidad Innata",
+    "Extension": "Técnica de Extensión",
+    "Barrier": "Técnica de Barrera",
+    "Binding Vow": "Voto Vinculante",
+    "Cursed Tool": "Herramienta Maldita",
+    "Domain Expansion": "Expansión de Dominio",
+    "Other": "Otro"
+  },
+  "relations": {
+    "ally": "Aliado",
+    "enemy": "Enemigo",
+    "teacher": "Maestro",
+    "student": "Alumno",
+    "clan_member": "Miembro del Clan",
+    "affiliated_with": "Afiliado"
+  },
+  "domains": {
+    "title": "Expansiones de Dominio",
+    "subtitle": "El pináculo de la hechicería jujutsu.",
+    "user_label": "Usuario del Dominio"
+  }
+}

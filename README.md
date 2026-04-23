@@ -1,49 +1,38 @@
-# 🤞 Expediente de Hechicería (Jujutsu Archive)
+# Expediente de Hechicería
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+Expediente de Hechicería es un proyecto personal que creé desde cero, inspirado en mi gusto por **Jujutsu Kaisen**.
+La idea es construir una enciclopedia donde cualquier fan pueda explorar el universo de la obra de forma clara, ordenada y visual.
 
-Una enciclopedia web premium e interactiva dedicada al universo de **Jujutsu Kaisen**. Desarrollada desde cero con un enfoque minimalista, estético y centrado en la experiencia del usuario.
+## ¿Qué puedes encontrar aquí?
 
-## 📖 Sobre el Proyecto
+*   **Perfiles de personajes**: Hechiceros, maldiciones y usuarios de maldiciones con su información relevante.
+*   **Técnicas Malditas**: Registro de habilidades y poderes dentro del universo Jujutsu.
+*   **Expansiones de Dominio**: Uno de los conceptos más icónicos, organizados y documentados.
+*   **Buscador global**: Para encontrar rápido cualquier personaje, técnica o elemento del lore.
+*   **Sistema bilingüe**: Disponible en español e inglés.
+*   **Centro de actualizaciones**: Para ir mostrando los cambios y contenido nuevo que voy agregando.
+*   **Archivo Sonoro (OST)**: Openings, endings y música del anime para acompañar la experiencia.
 
-Este es un proyecto personal nacido del fanatismo por la obra de Gege Akutami. Su objetivo es consolidar toda la información relevante de la serie (personajes, técnicas, dominios, clanes) en una interfaz moderna y accesible para cualquier fan, escapando del diseño tradicional de las wikis comunes.
+## Estado del proyecto
 
-## ✨ Características Principales
+El proyecto aún está en desarrollo.
+Voy agregando contenido y mejorando detalles poco a poco, tanto en lo visual como en funcionalidades.
 
-*   **Bases de Datos Extensas**: Perfiles detallados de hechiceros, espíritus malditos y usuarios de maldiciones.
-*   **Enciclopedia de Poderes**: Registros completos de Técnicas Malditas y Expansiones de Dominio.
-*   **Buscador Global Inteligente**: Encuentra al instante cualquier elemento del lore.
-*   **Sistema Bilingüe**: Soporte nativo para Español e Inglés (i18n).
-*   **Centro de Actualizaciones**: Sistema de notificaciones tipo changelog para mantener a los usuarios informados sobre nuevo contenido.
-*   **Sección Musical (OST)**: Acceso directo a los Openings, Endings y bandas sonoras oficiales.
+La base actual no está completa, pero es el punto de partida para algo mucho más grande.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 *   **Frontend**: Vue 3 (Composition API) + Vite.
 *   **Estilos**: Tailwind CSS (con tokens de diseño personalizados y tipografía Fraunces/Inter).
 *   **Backend & Base de Datos**: Supabase (PostgreSQL + Row Level Security).
-*   **Iconografía**: Lucide Vue Next.
+*   **Iconografía**: Lucide.
 *   **Internacionalización**: Vue i18n.
-*   **Despliegue**: Vercel.
+*   **Deployment**: Vercel.
 
-## 🚀 Despliegue (Vercel)
-
-Este proyecto está optimizado para ser desplegado en Vercel. 
-Asegúrate de configurar las siguientes **Variables de Entorno** en tu panel de Vercel para que la conexión con la base de datos funcione correctamente en producción:
-
-```env
-VITE_SUPABASE_URL=tu_url_de_supabase
-VITE_SUPABASE_ANON_KEY=tu_anon_key_de_supabase
-```
-
-## ✒️ Autor
+## Autor
 
 Creado por [abomdevp](https://github.com/abomdevp).
 Si quieres aportar ideas, correcciones al lore o sugerencias, ¡no dudes en escribirme!
 
 ---
 *Este proyecto no tiene fines de lucro y está hecho por y para fans. Jujutsu Kaisen es propiedad de Gege Akutami y Shueisha.*
-# jujutsu-kaisen-proyecto

@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Home",
+    "characters": "Characters",
+    "techniques": "Cursed Techniques",
+    "domains": "Domain Expansions",
+    "clans": "Clans",
+    "arcs": "Story Arcs",
+    "search": "Search",
+    "favorites": "Favorites",
+    "settings": "Settings",
+    "updates": "Updates",
+    "soundtrack": "Soundtrack"
+  },
+  "common": {
+    "back": "Back",
+    "profile": "View Profile",
+    "user": "User",
+    "expediente": "Sorcery Archive",
+    "estudiante": "Jujutsu Student",
+    "loading": "Loading archive...",
+    "no_results": "No results found"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "spanish": "Spanish",
+    "english": "English",
+    "theme": "Theme",
+    "privacy": "Privacy"
+  },
+  "characters": {
+    "title": "Character Archive",
+    "filter_grade": "Filter by Grade",
+    "search_placeholder": "Search archive...",
+    "grades": {
+      "Special Grade": "Special Grade",
+      "Special 1st Grade": "Special 1st Grade",
+      "Grade 1": "Grade 1",
+      "Semi-Grade 1": "Semi-Grade 1",
+      "Grade 2": "Grade 2",
+      "Grade 3": "Grade 3",
+      "Grade 4": "Grade 4",
+      "Unranked": "Unranked"
+    }
+  },
+  "status": {
+    "Alive": "Alive",
+    "Deceased": "Deceased",
+    "Cursed": "Cursed",
+    "Unknown": "Unknown"
+  },
+  "techniqueTypes": {
+    "Innate": "Innate Ability",
+    "Extension": "Extension Technique",
+    "Barrier": "Barrier Technique",
+    "Binding Vow": "Binding Vow",
+    "Cursed Tool": "Cursed Tool",
+    "Domain Expansion": "Domain Expansion",
+    "Other": "Other"
+  },
+  "relations": {
+    "ally": "Ally",
+    "enemy": "Enemy",
+    "teacher": "Teacher",
+    "student": "Student",
+    "clan_member": "Clan Member",
+    "affiliated_with": "Affiliated"
+  },
+  "domains": {
+    "title": "Domain Expansions",
+    "subtitle": "The pinnacle of jujutsu sorcery.",
+    "user_label": "Domain User"
+  }
+}
